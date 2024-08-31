@@ -1,7 +1,7 @@
 ## Hi! I'm Daniel Bernardes, a Front-End Developer!
 
 <div align="center">
-  <a href="https://github.com/daniel-bnd">
+  <a href="https://github.com/daniel-dnb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel-bnd&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-bnd&layout=compact&langs_count=7&theme=aura"/>
 </div>
@@ -18,8 +18,8 @@
 ##
   
 <div>
-  <a href="https://www.linkedin.com/in/daniel-bnd/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/dann_bnd" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/daniel-dnb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/dann_dnb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:daniielbnd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/daniel-bnd/daniel-bnd/blob/output/github-contribution-grid-snake.svg)
