@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/daniel-dnb">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel-bnd&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-bnd&layout=compact&langs_count=7&theme=aura"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel-dnb&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-dnb&layout=compact&langs_count=7&theme=aura"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,6 +22,6 @@
   <a href="https://instagram.com/dann_dnb" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:daniielbnd@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/daniel-bnd/daniel-bnd/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/daniel-dnb/daniel-dnb/blob/output/github-contribution-grid-snake.svg)
  
 </div>
